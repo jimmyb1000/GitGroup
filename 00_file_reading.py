@@ -10,7 +10,6 @@ Adding some new lines
 
 # use a context manager to automatically close your file
 
-And some more new lines
 
 # read the file into a list (each list element is one row)
 
