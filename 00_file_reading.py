@@ -10,7 +10,7 @@ Adding some new lines
 Adding some lines
 # use a context manager to automatically close your file
 
-Fixed a bug
+Fixed a bug and then the master refixeds 
 # read the file into a list (each list element is one row)
 
 
