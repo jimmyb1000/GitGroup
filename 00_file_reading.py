@@ -2,6 +2,7 @@
 Lesson on file reading using Airline Safety Data
 https://github.com/fivethirtyeight/data/tree/master/airline-safety
 '''
+Adding some new lines
 
 # read the whole file at once, return a single string (including newlines)
 # 'rU' mode (read universal) converts different line endings into '\n'
@@ -9,6 +10,7 @@ https://github.com/fivethirtyeight/data/tree/master/airline-safety
 
 # use a context manager to automatically close your file
 
+And some more new lines
 
 # read the file into a list (each list element is one row)
 
