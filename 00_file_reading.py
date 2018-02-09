@@ -7,10 +7,10 @@ Adding some new lines
 # read the whole file at once, return a single string (including newlines)
 # 'rU' mode (read universal) converts different line endings into '\n'
 
-
+Adding some lines
 # use a context manager to automatically close your file
 
-
+Fixed a bug
 # read the file into a list (each list element is one row)
 
 
